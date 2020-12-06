@@ -1,8 +1,8 @@
 ### Date created
-2020-12-06
+2020-12-06 (Sunday, 6 December 2020)
 
 ### Project Title
-US Bikeshare 
+US Bikeshare
 
 ### Description
 This project explore US Bikeshare data, to perform analysis of user trips.
